@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable-v24/button_next_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable-v24/option_wrong.xml" value="0.1" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable-v24/restart_button_background.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable-v24/second_view.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable-v24/send_request_button.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable-v24/share_button_background.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable-v24/third_view.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable/box_background.xml" value="0.1" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable/button_background.xml" value="0.1" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable/edit_text_background.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable/option_right.xml" value="0.1" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable/option_unselected.xml" value="0.1" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable/rank_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/drawable/view_bg.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/activity_facebook_auth.xml" value="0.10131712259371833" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/activity_forget_pass.xml" value="0.196875" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/activity_quiz.xml" value="0.1" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/activity_result.xml" value="0.209375" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/activity_spinner.xml" value="0.2" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/activity_splash_screen.xml" value="0.14" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/activity_twitter.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/activity_wallet.xml" value="0.209375" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/fragment_home.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/fragment_on_boarding2.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/fragment_on_boarding3.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/fragment_on_boarding4.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/fragment_rank.xml" value="0.209375" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/fragment_user.xml" value="0.1" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/fragment_wallet.xml" value="0.209375" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/item_category.xml" value="0.1" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/login_tab_fragment.xml" value="0.209375" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/lucky_wheel_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/row_leaderboards.xml" value="0.209375" />
+        <entry key="..\:/Users/Hacker/Desktop/FlousQuizApp/FlousQuiz/app/src/main/res/layout/signup_tab_fragment.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

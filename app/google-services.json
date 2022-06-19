@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34769282148",
+    "project_id": "flous-quiz",
+    "storage_bucket": "flous-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34769282148:android:bb9a11e9f73c3830676b71",
+        "android_client_info": {
+          "package_name": "com.example.flousquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34769282148-roejmin3eh68gokchmpjjhv5pota4fef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBT2UdyF0zMFqxzrmNn2yRPuswg_8mvPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34769282148-roejmin3eh68gokchmpjjhv5pota4fef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

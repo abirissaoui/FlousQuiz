@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlousQuiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="facebook_app_id">1253101621825987</string>
+    <string name="fb_login_protocol_scheme">fb1253101621825987</string>
+
+
+
+</resources>

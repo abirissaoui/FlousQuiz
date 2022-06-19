@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="410dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".SpinnerActivity">
+
+    <ImageView
+        android:id="@+id/spin_back"
+        android:layout_width="420dp"
+        android:layout_height="380dp"
+        android:scaleType="fitEnd"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/spin_back"/>
+
+    <ImageView
+        android:id="@+id/spin_cercle"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spin_a_win"
+        app:srcCompat="@drawable/spin_cercle"/>
+
+    <com.example.flousquiz.SpinWheel.LuckyWheelView
+        android:id="@+id/wheel_view"
+        android:layout_width="270dp"
+        android:layout_height="270dp"
+        app:lkwCenterImage="@android:color/transparent"
+        app:layout_constraintBottom_toBottomOf="@+id/spin_cercle"
+        app:layout_constraintEnd_toEndOf="@+id/spin_cercle"
+        app:layout_constraintStart_toStartOf="@+id/spin_cercle"
+        app:layout_constraintTop_toTopOf="@+id/spin_cercle">
+    </com.example.flousquiz.SpinWheel.LuckyWheelView>
+
+    <ImageView
+        android:id="@+id/spin_button"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:layout_constraintBottom_toBottomOf="@+id/wheel_view"
+        app:layout_constraintEnd_toEndOf="@+id/wheel_view"
+        app:layout_constraintStart_toStartOf="@+id/wheel_view"
+        app:layout_constraintTop_toTopOf="@+id/wheel_view"
+        app:srcCompat="@drawable/spin_button"/>
+
+    <ImageView
+        android:id="@+id/spin_arc"
+        android:layout_width="0dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/wheel_view"
+        app:srcCompat="@drawable/spin_arc"/>
+
+    <ImageView
+        android:id="@+id/spin_a_win"
+        android:layout_width="wrap_content"
+        android:layout_height="180dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/spin_a_win"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
